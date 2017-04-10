@@ -1,3 +1,10 @@
+//------------------------------------------------------------------------------
+// AnonymousKinect.cpp
+// 
+// University of Florida
+// Aashik Nagadikeri Harish
+// aashikgowda@ufl.edu
+//------------------------------------------------------------------------------
 #pragma comment(lib, "user32.lib")
 #include "SVMachine.h"
 #define KEYDOWN(vkcode) (GetAsyncKeyState(vkcode) & 0x8000 ? true : false)
