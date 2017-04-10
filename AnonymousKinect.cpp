@@ -2,10 +2,10 @@
 // AnonymousKinect.cpp
 // 
 // University of Florida
-// Aashik Nagadikeri Harish
-// aashikgowda@ufl.edu
 // Francesco Pittaluga
 // f.pittaluga@ufl.edu
+// Aashik Nagadikeri Harish
+// aashikgowda@ufl.edu
 //------------------------------------------------------------------------------
 
 #include <iostream>
